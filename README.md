@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello,
+I am Ross, I have a firm belief in free and opensource software, so all the software/tools/websites that i make will all be here for free and open source.
 
-<!--
-**RossTheDev/RossTheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My hobbies:
+- Webdev
+- Learning new things about tech.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/215px-Tux.png" height="15"> Linux (specifically  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1150px-Manjaro-logo.svg.png" height="15"> Manjaro)
+- Video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Favorite Projects:
+- [Tech By Ross](https://www.techbyross.com/)
+- [Homepage](https://www.gethomepage.org)
+
+
+## Socials
+- [My Twitter](https://twitter.com/rossthedev)
+- [Reddit](https://www.reddit.com/user/RossTheDev)
