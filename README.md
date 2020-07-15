@@ -1,5 +1,5 @@
 # Hello,
-I am Ross, I have a firm belief in free and opensource software, so all the software/tools/websites that i make will all be here for free and open source.
+I am Ross. I have a firm belief in free and opensource software, so all the software/tools/websites that i make will all be here for free and open source.
 
 
 ## My hobbies:
