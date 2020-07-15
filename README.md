@@ -14,6 +14,6 @@ I am Ross. I have a firm belief in free and opensource software, so all the soft
 - [Homepage](https://www.gethomepage.org)
 
 
-## Socials
+## Socials:
 - [My Twitter](https://twitter.com/rossthedev)
 - [Reddit](https://www.reddit.com/user/RossTheDev)
