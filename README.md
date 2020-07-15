@@ -4,9 +4,9 @@ I am Ross. I have a firm belief in free and opensource software, so all the soft
 
 ## My hobbies:
 - Webdev
-- Learning new things about tech.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/215px-Tux.png" height="15"> Linux (specifically  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1150px-Manjaro-logo.svg.png" height="15"> Manjaro)
-- Video games
+- Blogging (Tech By Ross)
+- Video Games
 
 
 ## Favorite Projects:
