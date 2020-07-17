@@ -15,5 +15,5 @@ I am Ross. I have a firm belief in free and opensource software, so all the soft
 
 
 ## Socials:
-- [My Twitter](https://twitter.com/rossthedev)
+- [My Twitter](https://twitter.com/TechByRoss)
 - [Reddit](https://www.reddit.com/user/RossTheDev)
