@@ -10,7 +10,7 @@ I am Ross. I have a firm belief in free and opensource software, so all the soft
 
 
 ## Favorite Projects:
-- [DoToday | Time Management Tool](https://twitter.com/TechByRoss)
+- [DoToday | Time management and Work flow utility.](https://github.com/RossTheDev/DoToday)
 
 
 ## Socials:
